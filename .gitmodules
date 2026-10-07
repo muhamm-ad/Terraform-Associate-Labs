@@ -1,0 +1,3 @@
+[submodule "110_modules/terraform-aws-apache-example"]
+	path = 110_modules/terraform-aws-apache-example
+	url = https://github.com/ExamProCo/terraform-aws-apache-example.git
